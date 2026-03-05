@@ -279,6 +279,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Traefik](https://github.com/containous/traefik): Træfik (pronounced like traffic) is a modern HTTP reverse proxy and load balancer written in Go.
 - [Oathkeeper](https://github.com/ory/oathkeeper): OIdentity & Access Proxy (IAP) that authorizes HTTP requests based on sets of rules. Integrates with ORY Hydra.
 - [Zuplo](https://zuplo.com/): OpenAPI-Powered API Management platform for API Development, Deployment, and Documentation. Add auth, rate-limiting, and monetization to your API in minutes.
+- [Agent Gateway](https://api-catalog-three.vercel.app): Unified API gateway for 40+ developer services including geolocation, crypto prices, screenshots, web scraping, DNS, and code execution with single API key access and pay-per-request pricing.
 
 ## API Security
 - [Online OpenAPI/Swagger File Security Audit](https://apisecurity.io/tools/audit/): Free online static analysis of API contract files. Upload the file and get the report.
